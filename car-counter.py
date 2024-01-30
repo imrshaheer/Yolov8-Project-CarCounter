@@ -41,7 +41,7 @@ limits = [390, 600, 750, 600]
 totalCount = []
 
 # Video writer for output
-video_writer = cv2.VideoWriter("output/object_counting_output.avi",
+video_writer = cv2.VideoWriter("object_counting_output.avi",
                                cv2.VideoWriter_fourcc(*'mp4v'),
                                fps,
                                (w, h))
