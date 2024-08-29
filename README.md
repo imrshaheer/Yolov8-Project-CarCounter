@@ -4,9 +4,9 @@
 
 Implemented YOLOv8 for car detection and SORT (Simple Online and Realtime Tracking) for tracking in the "Yolov8-Project-Car Detection Counter" project. Achieved car counting by monitoring their passage through a predefined region.
 
-Data Collection: A pre-trained YOLOv8 model was used for detecting cars, along with the related car detection labels.
+Data Collection: A pre-trained YOLOv8 model was used to detect cars, along with the related car detection labels.
 
-Data Preprocessing: The YOLOv8 model was set up to concentrate specifically on car detection. This adjustment met the project’s requirements.
+Data Preprocessing: The YOLOv8 model was set up to concentrate on car detection. This adjustment met the project’s requirements.
 
 Model Integration: The implementation of YOLOv8 enabled the detection of cars within video frames.
 
